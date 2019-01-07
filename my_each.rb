@@ -10,6 +10,6 @@ def my_each(array)
  
     array
   else
-    puts "Hey! No collection was given!"
+     "Hey! No collection was given!"
   end
 end
